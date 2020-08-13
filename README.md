@@ -1,3 +1,3 @@
 # smallthings
 
-# Small codes to use day by day
+### Small codes to use day by day
